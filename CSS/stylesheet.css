@@ -1,0 +1,39 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #fbeaff;
+}
+
+header {
+  background-color: #6b44bb;
+  color: aliceblue;
+  text-align: center;
+  padding: 20px;
+}
+
+a {
+  color: deeppink;
+}
+
+h1,
+h2,
+h3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#a-profile {
+  border-radius: 70%;
+  width: 250px;
+  height: 150px;
+  text-align: center;
+}
+
+#menu {
+  column-count: 1;
+}
+
+main,
+#footer {
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: justify;
+}
